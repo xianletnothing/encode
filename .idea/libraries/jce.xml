@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jce">
+    <CLASSES>
+      <root url="jar://E:/software/jar包/jce.jar!/" />
+      <root url="jar://E:/software/jar包/bcprov-jdk15on-1.57.jar!/" />
+      <root url="jar://E:/software/jar包/commons-codec-1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
